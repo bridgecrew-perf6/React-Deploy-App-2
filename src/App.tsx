@@ -16,6 +16,7 @@ function App() {
         >
           Learn Deployment
         </a>
+        <h3>{process.env.REACT_APP_MY_API}</h3>
       </header>
     </div>
   );
