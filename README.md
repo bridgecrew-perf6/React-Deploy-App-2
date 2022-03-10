@@ -14,3 +14,6 @@ Netlify
 
 Vercel
 [Live Demo](https://react-deploy-app-3z8pv6axp-hardik6869.vercel.app/)
+
+Heroku
+[Live Demo](https://react-deployment-p7.herokuapp.com/)
