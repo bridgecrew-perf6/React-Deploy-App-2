@@ -1,5 +1,4 @@
 {
-  "homepage": "https://hardik6869.github.io/React-Deploy-App",
   "name": "react-deploy-app",
   "version": "0.1.0",
   "private": true,
@@ -21,10 +20,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start:dev": "env-cmd -f .env-development react-scripts start",
-    "start:prod": "env-cmd -f .env-production react-scripts start",
+    "start:dev": "env-cmd -f .env.development react-scripts start",
+    "start:prod": "env-cmd -f .env.production react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

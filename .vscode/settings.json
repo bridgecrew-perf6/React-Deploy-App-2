@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b4a26a25-1748-4330-88f6-a8e0a2ca5d75/resourceGroups/practical-7/providers/Microsoft.Web/sites/practical-7",
+    "appService.deploySubpath": "build"
+}
